@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/api/hunters", "destination": "/api/hunters.js" }
-  ]
-}
